@@ -1,4 +1,4 @@
-baseURL = "https://hypertextliterature.netlify.app"
+baseURL = "/"
 languageCode = "en-us"
 title = "Hypertext as Literature"
 copyright = "© Copyright Judah, 2023 onwards"
