@@ -1,0 +1,423 @@
+posts = ["[Don’t Kill Math](https://www.evanmiller.org/dont-kill-math.html)",
+		 "[You don’t need to work on hard problems](https://www.benkuhn.net/hard/)",
+		 "[Be Coachable](https://sockpuppet.org/blog/2015/08/21/be-coachable/)",
+		 "[The Nerd Handbook](https://randsinrepose.com/archives/the-nerd-handbook/)",
+		 "[N.A.D.D](https://randsinrepose.com/archives/nadd/)",
+		 "[Lena](https://qntm.org/mmacevedo)",
+		 "[The Scientific Virtues](https://slimemoldtimemold.com/2022/02/10/the-scientific-virtues/)",
+		 "[The Meridian of Her Greatness](https://samzdat.com/2017/06/01/the-meridian-of-her-greatness/)",
+		 "[Looking for dragons drives progress](https://drmaciver.substack.com/p/dragon-problems)",
+		 "[How I Became the Honest Broker](https://www.honest-broker.com/p/how-i-became-the-honest-broker)",
+		 "[Status as a Service (StaaS)](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service)",
+		 "[Agency](https://chiefofstuff.substack.com/p/agency)",
+		 "[Tipping the Odds](https://nihalsahu.substack.com/p/tipping-the-odds)",
+		 "[On Heroic Sincerity](https://michaelcurzi.substack.com/p/7-a-manifesto-on-heroic-sincerity)",
+		 "[All you need is links](https://subconscious.substack.com/p/all-you-need-is-links)",
+		 "[Fuck it, we ball](https://rivalvoices.substack.com/p/fuck-it-we-ball-on-rats-postrats)",
+		 "[Logarithmic Scales of Pleasure and Pain](https://qualiacomputing.com/2019/08/10/logarithmic-scales-of-pleasure-and-pain-rating-ranking-and-comparing-peak-experiences-suggest-the-existence-of-long-tails-for-bliss-and-suffering/)",
+		 "[Shop Class as Soulcraft](https://www.thenewatlantis.com/publications/shop-class-as-soulcraft)",
+		 "[Why is Finance Full of Jocks?](https://byrnehobart.medium.com/why-is-finance-full-of-jocks-plus-useful-advice-for-people-who-think-this-is-stupid-and-unfair-330d35a0b7d7)"
+		 ]
+
+books = ["[There Is No Antimemetics Division](https://qntm.org/scp)",
+		"[Unsong](https://unsongbook.com/)",
+		"[They Had No Deepness of Earth (PDF)](https://zerohplovecraft.substack.com/api/v1/file/c103e30e-5cf6-4273-9ad6-4101eb1f3d1a.pdf)"
+		]
+		
+lesswrong = ["[Power Buys You Distance From The Crime](https://www.lesswrong.com/s/FoaLfnrZGGGMdcAoF/p/9fB4gvoooNYa4t56S)",
+			"[The Tails Coming Apart As Metaphor For Life](https://www.lesswrong.com/posts/asmZvCPHcB4SkSCMW/the-tails-coming-apart-as-metaphor-for-life)",
+			"[The Baby-Eating Aliens](https://www.lesswrong.com/posts/n5TqCuizyJDfAPjkr/the-baby-eating-aliens-1-8)"]
+
+[[authors]]
+name = " Byrne Hobart"
+blog = " The Diff "
+link = "https://www.thediff.co/"
+color = '#00a69e'
+posts = ['[Stripe and Solid-State Economics](https://www.thediff.co/archive/stripe/)',
+		'[You Can’t Kill the Bloomberg Terminal. But If You Were Going to Try, Here’s How.](https://marker.medium.com/why-its-hard-to-kill-the-bloomberg-terminal-61073482e496)', 
+		'[The 30-Year Mortgage is an Intrinsically Toxic Product](https://byrnehobart.medium.com/the-30-year-mortgage-is-an-intrinsically-toxic-product-200c901746a)', 
+		'[The Startling Convexity of Expertise](https://byrnehobart.medium.com/the-startling-convexity-of-expertise-5058e90a6c19)',
+		"[How I Got Hired at SAC Capital Without a College Degree](https://web.archive.org/web/20230312124414/https://byrnehobart.medium.com/how-i-got-hired-at-sac-capital-without-a-college-degree-bc8947ccdb13)"]
+
+
+[[authors]]
+name = "Kevin Simler"
+blog = "Melting Asphalt"
+link = "https://meltingasphalt.com"
+color = '#AA0100'
+posts = ['[Neurons Gone Wild](https://meltingasphalt.com/neurons-gone-wild/)', 
+		"[Ads Don't Work That Way](https://meltingasphalt.com/ads-dont-work-that-way/)",
+		'[Wealth: The Toxic Byproduct](https://meltingasphalt.com/wealth-the-toxic-byproduct/)', 
+		'[Status as Space](https://meltingasphalt.com/status-as-space/)', 
+		'[Tears](https://meltingasphalt.com/tears/)']
+descriptions = ["To reject gods and spirits is easy: just bully them away in the name of science.",
+				"",
+				"",
+				"People often conceptualize status as space — more specifically, as territory — and that this helps explain a wide range of phenomena.",
+				"A Tale of Dominance, Submission, and Friendship on the Cheap."]
+
+[[authors]]
+name = "Gavin Leech"
+blog = "argmin gravitas"
+link = "https://www.gleech.org"
+color = '#006801'
+posts = ["[Why I'm not a philosopher](https://www.gleech.org/no-philosopher)", 
+		"[Ramsey](https://www.gleech.org/frank)",
+		'[Economics as philosophy of life](https://www.gleech.org/econ-life)', 
+		'[Why is quality rare?](https://www.gleech.org/quality)', 
+		'[Against The Culture](https://www.gleech.org/culture)']
+descriptions = ["Philosophy's functions & benefits, and why they aren't real(?)",
+				"The philosopher's philosopher, the economist's economist, ...",
+				"Trying to take maxims and wisdom from the dismal science",
+				"Why in general is it harder to do things well than badly?",
+				"For and against Iain Banks' utopia."]
+
+
+[[authors]]
+name = " Aaron Swartz"
+blog = " Raw Thought"
+link = "http://www.aaronsw.com"
+color = '#ff4'
+posts = ['[ A Non-Programmer’s Apology](http://www.aaronsw.com/weblog/nonapology)', '[ I Hate the News](http://www.aaronsw.com/weblog/hatethenews)', '[ Take the Easy Way Out](http://www.aaronsw.com/weblog/easywayout)', '[ HOWTO: Be More Productive](http://www.aaronsw.com/weblog/productivity)', '[ Two Conceptions of Taste](http://www.aaronsw.com/weblog/2taste)']
+
+[[authors]]
+name = "Patrick Mcenzie"
+blog = "Kalzumeus"
+link = "https://www.kalzumeus.com"
+color = '#3498DB'
+posts = ["[Don't Call Yourself A Programmer and Other Career Advice](https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/)",
+		"[The story of VaccinateCA](https://worksinprogress.co/issue/the-story-of-vaccinateca)",
+		"[Doing Business in Japan](https://www.kalzumeus.com/2014/11/07/doing-business-in-japan/)",
+		"[The Fraud Supply Chain](https://www.bitsaboutmoney.com/archive/the-fraud-supply-chain/)",
+		"[How Running A Business Changes The Way You Think](https://www.kalzumeus.com/2011/07/08/business-psychology/)"]
+
+
+[[authors]]
+name = "Gwern Branwen"
+blog = "gwern.net"
+link = "https://gwern.net"
+color = '#111'
+posts = ["[Death Note Anonymity](https://gwern.net/death-note-anonymity)",
+		"[On Really Trying](https://gwern.net/on-really-trying)",
+		"[Everything is Correlated](https://gwern.net/everything)",
+		"[Archiving URLs](https://gwern.net/archiving)",
+		"[Sidenotes in Web Design](https://gwern.net/sidenote)"]
+descriptions = ["Applied Computer Science: On Murder Considered As STEM Field—using information theory to quantify the magnitude of Light Yagami’s mistakes in Death Note and considering fixes",
+				"What are the true limits to motivation?",
+				"Anthology of sociology, statistical, or psychological papers discussing the observation that all real-world variables have non-zero correlations and the implications for statistical theory such as ‘null hypothesis testing’.",
+				"Archiving the Web, because nothing lasts forever: statistics, online archive services, extracting URLs automatically from browsers, and creating a daemon to regularly back up URLs to multiple sources.",
+				"In typography/design, ‘sidenotes’ place footnotes/endnotes in the margins for easier reading. I discuss design choices, HTML implementations and their pros/cons."]
+
+[[authors]]
+name = "Visakan Veeraswamy"
+blog = "visa's voltaic verses ⚡️"
+link = "https://visakanv.substack.com"
+color = '#B04FE4'
+posts = ["[Are You Serious](https://visakanv.substack.com/p/are-you-serious)",
+		"[branching paths](https://visakanv.substack.com/p/branching-paths)",
+		"[I don't wanna!](https://visakanv.substack.com/p/i-dont-wanna)",
+		"[relationships are challenging + a lot of work](https://www.visakanv.com/blog/relationships/)",
+		"[Why Were You Late](https://www.visakanv.com/blog/late/)"]
+descriptions = ["Search your heart. What are you serious about? How far will you go?",
+				"crackle, crackle, crackle, BOOM",
+				"me: [to myself] fuck you, i won't do what you tell me!!",
+				"This blogpost is basically a “cleaned-up” or “unrolled” post of 5 of my Twitter threads. I put this together because I think it’s a useful thing to share with friends who are engaged, or newly wed. I am not an expert, I am just a dumbass with experience. I hope my experience is useful to you.",
+				"Here’s a story that I often tell people, and it’s useful enough that it’s worth writing up to share with more people."]
+
+[[authors]]
+name = "Bret Victor"
+blog = "WorryDream"
+link = "http://worrydream.com"
+color = '#6A3919'
+posts = ["[What Can a Technologist Do About Climate Change](http://worrydream.com/ClimateChange/)",
+		"[Up and Down the Ladder of Abstraction](http://worrydream.com/LadderOfAbstraction/)",
+		"[A Brief Rant on the Future of Interaction Design](https://worrydream.com/ABriefRantOnTheFutureOfInteractionDesign/)",
+		"[Kill Math](http://worrydream.com/KillMath/)",
+		"[Magic Ink](http://worrydream.com/MagicInk/)",]
+descriptions = ["A personal view.",
+				"A systematic approach to interactive visualization.",
+				"",
+				"The power to understand and predict the quantities of the world should not be restricted to those with a freakish knack for manipulating abstract symbols.",
+				"A treatise on a new approach to UI design. Interaction considered harmful."]
+
+[[authors]]
+name = "Adam Mastroianni"
+blog = "Experimental History"
+link = "https://www.experimental-history.com"
+color = '#E79F00'
+posts = ["[The rise and fall of peer review](https://www.experimental-history.com/p/the-rise-and-fall-of-peer-review)",
+		"[Excuse me but why are you eating so many frogs](https://www.experimental-history.com/p/excuse-me-but-why-are-you-eating)",
+		"[Brain training begins in the hips](https://www.experimental-history.com/p/brain-training-begins-in-the-hips)",
+		"[Against All Applications](https://www.experimental-history.com/p/against-all-applications)",
+		"[Ideas aren’t getting harder to find and anyone who tells you otherwise is a coward and I will fight them](https://www.experimental-history.com/p/ideas-arent-getting-harder-to-find)",]
+descriptions = ["Why the greatest scientific experiment in history failed, and why that's a great thing",
+				"We've got the wrong theory about how minds work and it's ruining our lives",
+				"A response to a reader's question",
+				"The power to understand and predict the quantities of the world should not be restricted to those with a freakish knack for manipulating abstract symbols.",
+				"You can still discover stuff, I promise"]
+
+
+[[authors]]
+name = "Emevas"
+blog = "Mythical Strength"
+link = "http://mythicalstrength.blogspot.com/"
+color = '#111'
+posts = ["[THINGS THAT ARE AND ARE NOT IMPORTANT](http://mythicalstrength.blogspot.com/2021/01/things-that-are-and-are-not-important.html)",
+		"[BAD FORM BUILDS BIG MUSCLES/THE BROS WERE RIGHT ABOUT MUSCLE CONFUSION](http://mythicalstrength.blogspot.com/2021/10/bad-form-builds-big-musclesthe-bros.html)",
+		"[THINGS I BELIEVE AND CAN’T PROVE](http://mythicalstrength.blogspot.com/2022/11/things-i-believe-and-cant-prove.html)",
+		"[UNPOPULAR OPINIONS AND BELIEFS](http://mythicalstrength.blogspot.com/2021/12/unpopular-opinions-and-beliefs.html)",
+		"[WISDOM OF YOUTH/EXPERIENCE OF AGE](http://mythicalstrength.blogspot.com/2021/11/wisdom-of-youthexperience-of-age.html)"]
+
+[[authors]]
+name = "Robert Heaton"
+blog = "robertheaton.com"
+link = "https://robertheaton.com"
+color = '#fff'
+posts = ["[I wouldn't call my friends strong male role models but they'll have to do](https://robertheaton.com/theyll-have-to-do/)",
+		"[I love him more and more every day on average](https://robertheaton.com/love-more-on-average/)",
+		"[I got married and had kids so you don't have to](https://robertheaton.com/married-with-kids/)",
+		"[How to come up with blog post ideas](https://robertheaton.com/2019/09/24/how-to-come-up-with-blog-post-ideas/)",
+		"[A day at the Free Market](https://robertheaton.com/2015/11/30/a-day-at-the-free-market/)"
+		]
+
+[[authors]]
+name = "Cedric Chen"
+blog = "Commoncog"
+link = "https://commoncog.com"
+color = '#621C8D'
+posts = ['[Career Moats 101](https://commoncog.com/career-moats-101/)', 
+		'[Pay Attention to Deviations from Mainstream Incentives](https://commoncog.com/pay-attention-to-deviations-from-mainstream-incentives/)', 
+		'[Beware What Sounds Insightful](https://commoncog.com/beware-what-sounds-insightful/)', 
+		'[The Chinese Businessman Paradox](https://commoncog.com/the-chinese-businessman-paradox/)', 
+		'[The Games People Play With Cash Flow](https://commoncog.com/cash-flow-games/)']
+descriptions = ["A brief primer of nearly everything I've written on career moats.",
+				"Look for aberrations in typical behaviour, and then treat those aberrations as signals to dig into the incentives that motivated these companies to do as they do",
+				" Internet writers optimise for attention, not truth.",
+				"This is a series of posts that attempts to make sense of the traditional Chinese businessmen I dealt with.",
+				"Why free cash flow is the metric traditional Chinese businessmen intuitively focus on."]
+
+[[authors]]
+name = "Toby Shorin"
+blog = "Subpixel Space"
+link = "https://subpixel.space"
+color = '#fff'
+posts = ['[Life After Lifestyle](https://subpixel.space/entries/life-after-lifestyle/)', 
+		'[Squad Wealth](https://otherinter.net/research/squad-wealth/)', 
+		'[Come for the Network, Pay for the Tool](https://subpixel.space/entries/come-for-the-network-pay-for-the-tool/)', 
+		'[Building For the Culture](https://subpixel.space/entries/building-for-the-culture/)', 
+		'[The Diminishing Marginal Value of Aesthetics](https://subpixel.space/entries/diminishing-marginal-aesthetic-value/)']
+
+
+[[authors]]
+name = " Scott Alexander"
+blog = " AstralCodexTen "
+link = "https://astralcodexten.substack.com"
+color = '#67BDFC'
+posts = ['[ Meditations on Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/)', 
+		'[ SSC Gives A Graduation Speech](https://slatestarcodex.com/2014/05/23/ssc-gives-a-graduation-speech/)', 
+		'[ Who By Very Slow Decay](https://slatestarcodex.com/2013/07/17/who-by-very-slow-decay/)', 
+		'[ Heurestics That Almost Always Work](https://astralcodexten.substack.com/p/heuristics-that-almost-always-work?s=r)', 
+		'[ And I Show You How Deep The Rabbit Hole Goes](https://slatestarcodex.com/2015/06/02/and-i-show-you-how-deep-the-rabbit-hole-goes/)']
+
+[[authors]]
+name = " José Luis Ricón Fernández"
+blog = " Nintil "
+link = "https://nintil.com/"
+color = '#C05B4D'
+posts = ['[ The Longevity FAQ](https://nintil.com/longevity)', '[ What is aging?](https://nintil.com/what-is-aging)', '[ Scaling Tacit Knowledge](https://nintil.com/scaling-tacit-knowledge)', '[ Is (useful) physics over?](https://nintil.com/is-useful-physics-over)', '[ Cozy Futurism](https://nintil.com/cozy-futurism)']
+
+[[authors]]
+name = " Rohit Krishnan"
+blog = " Strange Loop Canon "
+link = "https://www.strangeloopcanon.com"
+color = '#A87A2E'
+posts = ['[ On Medici and Thiel](https://www.strangeloopcanon.com/p/on-medici-and-thiel)', 
+'[ Spot The Outlier ](https://www.strangeloopcanon.com/p/spot-the-outlier)', 
+'[ On thinkers and doers](https://www.strangeloopcanon.com/p/on-thinkers-and-doers)', 
+'[ Eureka! On the clustering of geniuses](https://www.strangeloopcanon.com/p/eureka-on-the-clustering-of-geniuses)', 
+'[ Trolley problem as an issue with Bayesian priors](https://www.strangeloopcanon.com/p/trolley-problem-as-an-issue-with)']
+descriptions = ["Why we should radically scale genius grants",
+				"Talent spotting, Berkson's paradox and enabling luck",
+				"Why we might need something like tenure for many more people, to cultivate more thinkers in a doer's world",
+				"Examining the social networks essential to innovation",
+				"Creating mini worlds"]
+
+[[authors]]
+name = " Venkatesh Rao"
+blog = " Ribbonfarm "
+link = "https://www.ribbonfarm.com/"
+color = '#692010'
+posts = ['[The Gervais Principle, Or The Office According to “The Office”](https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/)',
+		'[The Premium Mediocre Life of Maya Millennial](https://www.ribbonfarm.com/2017/08/17/the-premium-mediocre-life-of-maya-millennial/)', 
+		'[A Big Little Idea Called Legibility](https://www.ribbonfarm.com/2010/07/26/a-big-little-idea-called-legibility/)', 
+		'[Against Waldenponding](https://studio.ribbonfarm.com/p/against-waldenponding)',
+		'[The Calculus of Grit](https://www.ribbonfarm.com/2011/08/19/the-calculus-of-grit/)']
+
+[[authors]]
+name = " Roger's Bacon"
+blog = "Secreturm Secretorum"
+link = "https://www.secretorum.life/"
+color = '#216217'
+posts = ['[ The Myth of the Myth of the Lone Genius](https://rogersbacon.substack.com/p/the-myth-of-the-myth-of-the-lone)', '[ Born Again: Disconnected Psychology, Martian Science, and the Order of the Phoenix](https://rogersbacon.substack.com/p/born-again-disconnected-psychology?s=r)', '[ Nomen est omen](https://rogersbacon.substack.com/p/nomen-est-omen)', '[ Ideas are Alive and You are Dead](https://rogersbacon.substack.com/p/ideas-are-alive-and-you-are-dead?s=r)']
+descriptions = ["",
+				"",
+				"Should we look more deeply into the nature of suffering?",
+				"On nominative determinism and the power of names",
+				""]
+
+[[authors]]
+name = " Erik Hoel"
+blog = ""
+link = ""
+color = ''
+posts = ['[ Why we stopped making Einsteins](https://erikhoel.substack.com/p/why-we-stopped-making-einsteins)', '[ How the strangeness of our dreams reveals their true purpose](https://www.newscientist.com/article/mg24833073-600-how-the-strangeness-of-our-dreams-reveals-their-true-purpose/)', '[ We need a Butlerian Jihad against AI](https://erikhoel.substack.com/p/we-need-a-butlerian-jihad-against)', '[ Baldwin in Brahman](https://erikhoel.substack.com/p/baldwin-in-brahman)']
+descriptions = ["Geniuses of the past were aristocratically tutored",
+				"A new explanation for dreaming suggests it does something far more profound than reinforcing learning as we sleep. It might even explain our love of stories.",
+				"How today’s novelists cope with their HBO anxiety",
+				"A proposal to ban AI research by treating it like human-animal hybrids",
+				"A trip to the hospital is more real than your politics"]
+
+[[authors]]
+name = " Crispy Chicken"
+blog = " McLegibilist"
+link = "https://crispychicken.cc"
+color = '#26BC67'
+posts = ['[ Intellectual Fascia](https://crispychicken.cc/p/intellectual-fascia)', '[ Relative Semantics Are More Real Than Absolute Semantics](https://crispychicken.cc/p/relative-semantics-are-more-real)', '[ Starving in the Motte](https://crispychicken.cc/p/starving-in-the-motte)']
+descriptions = ["What holds scientific discourses together?",
+				"Shared relative differences as foundational linguistic reference points",
+				"Easily defensible claims are for Wikipedia and losers"]
+
+
+[[authors]]
+name = " Dan Luu"
+blog = " danluu.com "
+link = "https://danluu.com"
+color = '#fff'
+posts = ['[ Individuals matter](https://danluu.com/people-matter/)', '[How I learned to program](https://danluu.com/learning-to-program/)', '[ Willingness to look stupid](https://danluu.com/look-stupid/)', '[ Some reasons to work on productivity and velocity](https://danluu.com/productivity-velocity/)', "[ 95%-ile isn't that good](https://danluu.com/p95-skill/)"]
+
+[[authors]]
+name = " Nadia"
+blog = " nadia.xyz"
+link = "https://nadia.xyz/"
+color = '#1A0DAB'
+posts = ['[ The tyranny of ideas](https://nadia.xyz/ideas)', '[ Reimagining the PhD](https://nadia.xyz/phd)', '[ Reclaiming public life](https://nadia.xyz/public-life)', '[ Seed stage philanthropy](https://nadia.xyz/seed-philanthropy)', '[ Friend Groups](https://nayafia.substack.com/p/27-friend-groups)']
+
+[[authors]]
+name = " Zvi Mowshowitz"
+blog = " Don't Worry About the Vase "
+link = "https://thezvi.wordpress.com"
+color = 'rgb(250, 250, 250)'
+posts = ['[ The Moral Mazes Sequence](https://thezvi.wordpress.com/2020/05/23/mazes-sequence-summary/)', 
+		'[Slack](https://thezvi.wordpress.com/2017/09/30/slack/)',
+		'[ Motive Ambiguity](https://thezvi.wordpress.com/2020/12/15/motive-ambiguity/)', 
+		'[ Something Was Wrong](https://thezvi.wordpress.com/2017/08/05/something-was-wrong/)',
+		'[Play in Hard Mode](https://thezvi.wordpress.com/2017/08/26/play-in-hard-mode/)']
+
+[[authors]]
+name = "Applied Divinity Studies"
+blog = "ADS"
+link = "https://applieddivinitystudies.com"
+color = '#268FB8'
+posts = ['[The Murder of Wilbur Wright](https://applieddivinitystudies.com/murder-of-wilbur/)', "[ Quitting Won't Save You](https://applieddivinitystudies.com/2020/09/01/quitting/)", '[ On Being a Loser, or Should you Start a Blog?](https://applieddivinitystudies.com/loser/)', '[Where are All the Successful Rationalists?](https://applieddivinitystudies.com/2020/09/05/rationality-winning/)', '[No One is Even Trying](https://applieddivinitystudies.com/trying/)']
+descriptions = ['How many of our greatest minds have we lost?',
+				'There’s a persistent myth among unhappily employed people that “if I could just quit my day job and pursue my passion full time, I would finally be satisfied”. It’s me, I’m the unhappy person.',
+				'Think hard, write words, get an audience, find out for yourself.',
+				'It’s been 13 years since Yudkowsky wrote “Rationality is Systematized Winning”. So where are all the winners?',
+				'This post is about how little work people do, but it starts with stories of unusually high output.']
+
+[[authors]]
+name = " Jacob Falkovich"
+blog = " Putanumonit "
+link = "https://putanumonit.com/2020/01/01/welcome/"
+color = '#5415C0'
+posts = ['[Winning is for Losers](https://putanumonit.com/2017/10/11/winning-is-for-losers/)',
+		'[ The Scent of Bad Psychology](https://putanumonit.com/2018/09/07/the-scent-of-bad-psychology/)', 
+		'[ In Defence of Finance](https://putanumonit.com/2018/12/14/defense-of-finance/)', 
+		'[ Selfless Dating](https://putanumonit.com/2022/01/02/selfless-dating/)',
+		'[Vote Against](https://putanumonit.com/2015/12/30/010-voting/)']
+
+
+[[authors]]
+name = " Ava "
+blog = "bookbear express"
+link = "https://ava.substack.com/"
+color = '#E85C58'
+posts = ['[ effort](https://ava.substack.com/p/effort)', '[ obsession](https://ava.substack.com/p/obsession?s=r)', '[ what i talk about when i talk about not thinking](https://ava.substack.com/p/what-i-talk-about-when-i-talk-about)', '[ long feedback loops](https://ava.substack.com/p/long-feedback-loops)', '[you like books and think they are your friends](https://ava.substack.com/p/you-like-books-and-think-they-are)']
+
+
+[[authors]]
+name = " Simon Sarris"
+blog = "The Map is Mostly Water"
+link = "https://simonsarris.substack.com"
+color = '#BAA049'
+posts = ['[ The Most Precious Resource is Agency ](https://simonsarris.substack.com/p/the-most-precious-resource-is-agency)', '[ In Praise of the Gods](https://simonsarris.substack.com/p/in-praise-of-the-gods)', '[ What the Mouse Knows](https://simonsarris.substack.com/p/what-the-mouse-knows)', '[Long Distance Thinking](https://simonsarris.substack.com/p/long-distance-thinking)', '[That which is unique, breaks](https://simonsarris.substack.com/p/that-which-is-unique-breaks)']
+descriptions = ['The world is a very malleable place.',
+				'What the Rationalistic World Forgot',
+				'It is not down in any map; true places never are.',
+				'The knowledge of a carpenter is in his hands. The apprentice must work with his own to discover it.',
+				'If we want the forest, we must continue to garden and sow.']
+
+
+[[authors]]
+name = " Randy"
+blog = " Egg Report"
+link = "https://eggreport.substack.com"
+color = '#45D802'
+posts = ['[ Uncritical Theory](https://eggreport.substack.com/p/uncritical-theory)', '[](https://eggreport.substack.com/p/the-duty-of-joy)', '[ beating games and women](https://eggreport.substack.com/p/beating-games-and-women?s=r)', '[ Wittgenstone age mindset](https://eggreport.substack.com/p/wittgenstone-age-mindset?s=r)', '[ Dating Advice for the modern Serial Killer](https://eggreport.substack.com/p/rehosting-dating-advice-for-the-modern)']
+descriptions = ["The new paradigm we've all been waiting for",
+				"A preparatory history and epistemology, as groundwork for a re-establishment of a human culture",
+				"winter depression essay",
+				'What you call "identity" and "consciousness" was invented in 5000 BC by guys like me, to sell copper',
+				'Dating App “just the tip”s & tricks']
+[[authors]]
+name = " Edward Teach "
+blog = "The Last Psychiatrist"
+link = "https://thelastpsychiatrist.com"
+color = '#EDEBD5'
+posts = ['[ Luxury Branding The Future Leaders Of The World](https://thelastpsychiatrist.com/2011/11/luxury_branding_the_future_lea.html)', '[ Massacre of The Unicorns](https://thelastpsychiatrist.com/2006/11/massacre_of_the_unicorns.html)', '[ No Self-Respecting Woman Would Go Out Without Make Up](https://thelastpsychiatrist.com/2013/01/no_self-respecting_woman_would.html)', '[ Hipsters On Food Stamps](https://thelastpsychiatrist.com/2012/11/hipsters_on_food_stamps.html)', '[The Dove Sketches Beauty Scam](https://thelastpsychiatrist.com/2013/05/dove.html)']
+
+[[authors]]
+name = " Hotel Concierge "
+blog = "Hotel Conceirge"
+link = "https://thelastpsychiatrist.com"
+color = '#0673a2'
+posts = ['[ The Tower](https://hotelconcierge.tumblr.com/post/162571849189/the-tower)', '[ Young Adult Fictions](https://hotelconcierge.tumblr.com/post/167221016499/young-adult-fictions)', '[ How To Be Attractive](https://hotelconcierge.tumblr.com/post/140529495929/how-to-be-attractive)', '[ The Third Abstraction](https://hotelconcierge.tumblr.com/post/138241626054/the-second-abstraction)', '[The Stanford Marshmallow Prison Experiment](https://hotelconcierge.tumblr.com/post/113360634364/the-stanford-marshmallow-prison-experiment)']
+descriptions = ['hey man there’s a hole in my head where information goes',
+				'So please take this in the gentlest possible way: you were never that great.',
+				'i’ve been looking so long at these pictures of you / that i almost confused map and territory',
+				'Without abstraction, there is only one truth: something exists. I suppose it’s better than nothing.',
+				'i waited 75 years and all i got was this lousy t-shirt'
+				]
+
+
+[[authors]]
+name = " Sasha Chapin"
+blog = " Sasha's 'Newsletter'"
+link = "https://sashachapin.substack.com/"
+color = '#FF81CD'
+posts = ['[ In Praise of Stupid Song Lyrics](https://hazlitt.net/feature/praise-stupid-song-lyrics)', "[ If You Have Writer's Block, Maybe You Should Stop Lying ](https://sashachapin.substack.com/p/if-you-have-writers-block-maybe-you)", '[ Elliott Smith is Sad, Like You](https://hazlitt.net/feature/elliott-smith-sad-you)', '[ Being Too Old Is a Beautiful State of Mind](https://sashachapin.substack.com/p/being-too-old-is-a-beautiful-state)', '[ Notes Against Note-Taking Systems](https://sashachapin.substack.com/p/notes-against-note-taking-systems)']
+descriptions = ["Stupid lyrics are good for you. Bad lyrics are just bad.",
+				"It's not a technique problem, it's a sincerity problem",
+				"He always maintained that he loved making his music, even as his music usually claimed that he didn’t love much at all.",
+				'some maundering about why i go to fewer parties',
+				'Dating App “just the tip”s & tricks']
+
+[[authors]]
+name = " 0HP Lovecraft"
+blog = " Zero HP Lovecraft "
+link = "https://zerohplovecraft.wordpress.com/"
+color = '#48FA98'
+posts = ['[ God-shaped Hole](https://wiki.chadnet.org/god-shaped-hole)', '[ The Gig Economy ](https://zerohplovecraft.substack.com/p/the-gig-economy)', '[ Key Performance Indicators](https://zerohplovecraft.substack.com/p/key-performance-indicators)', '[Eventual Consistency](https://zerohplovecraft.substack.com/p/eventual-consistency)', '[So You Want to Write Fiction With AI](https://zerohplovecraft.substack.com/p/so-you-want-to-write-fiction-with)']
+descriptions = ['seduction in a future world of sexbots and augmented reality',
+				'a horror of blockchains and microjobs',
+				'the quantified self in the world of direct-to-brain interfaces',
+				'An essay on science fiction, Seraphim Rose, Peter Thiel, and the possibility of optimistic futurism.',
+				'A meditation on tool-assisted composition.'
+				]
+
+[[authors]]
+name = " Dan Wang"
+blog = " The Secure Transport Of Light "
+link = "https://danwang.co"
+color = '#990001'
+posts = ['[ Definite Optimism as Human Capital](http://danwang.co/definite-optimism-as-human-capital/)', '[ 2021 letter](https://danwang.co/2021-letter/)', '[ 2019 letter](http://danwang.co/2019-letter/)', '[ How Technology Grows](https://danwang.co/how-technology-grows/)', '[Violence and the Sacred](https://danwang.co/college-girardian-terror/)']

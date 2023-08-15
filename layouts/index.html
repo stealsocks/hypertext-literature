@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+        <title> {{ .Site.Title }} </title>
+        <meta name="description" content="{{ if .Description }}{{ .Description }}
+        {{ else }} {{ .Site.Params.description }}{{ end }}">
+        <meta charset="utf-8">
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="apple-touch-icon" sizes="180x180"  href="/favicon.ico"> 
+        <link rel="icon" type="image/png" sizes="32x32" href="/favicon.ico"> 
+        <link rel="icon" type="image/png" sizes="16x16"  href="/favicon.ico"> 
+
+        <!-- Facebook Open Graph tags -->
+        <meta property="og:url" content="{{ .Site.BaseURL}}" />
+        <meta property="og:title" content="{{ .Title }}" />
+        <meta property="og:description" content="{{ if .Description }}{{ .Description }}
+        {{ else }} {{ .Site.Params.description }}{{ end }}" />
+        <meta property="og:image" content="{{ .Site.BaseURL}}/card.jpg" />
+
+
+        <!-- Twitter Card (large image card) tags -->
+        <meta name="twitter:card" content="summary">
+        <meta name="twitter:creator" content="@{{.Site.Author.twitter}}">
+        <meta name="twitter:title" content="{{ .Title }}">
+        <meta name="twitter:description" content="{{ if .Description }}{{ .Description }}
+        {{ else }} {{ .Site.Params.description }}{{ end }}" />
+        <meta name="twitter:image" content="{{ .Site.BaseURL}}/card.jpg" />
+
+        <link rel="alternate" type="application/rss+xml" 
+          title="RSS Feed for {{ .Site.Title }}." 
+          href="/index.xml" />
+        <link rel="stylesheet" type="text/css" href="/css/styles.css" />
+</head>
+
+<body>
+    {{ partial "header.html" . }}
+
+    <main class=columns>
+
+        <div class=wide>
+            <h2> Classic One-offs </h2>
+            {{ range .Site.Data.data.posts }}
+                <div class=single>{{ . | markdownify }}</div>
+            {{ end }}
+        </div>
+
+        <div class=wide>
+            <h2> Books </h2>
+            {{ range .Site.Data.data.books }}
+                <div class=single>{{ . | markdownify }}</div>
+            {{ end }}
+            <br><br><br>
+        </div>
+
+
+       
+       {{ $items := .Site.Data.data.authors }}
+           {{ range $index, $item := $items }}
+           <div class=card >
+                <section>
+                    <div class=card-header>
+                        <h2>
+                            {{ $item.name }}
+                        </h2>
+                        <span class=blog> Writes at <a href="{{ $item.link}}">{{ $item.blog }}</a>.</span>
+                    </div>
+
+                    <div class=posts>
+                        {{ range $tagIndex, $post := $item.posts }}
+                            <div class=post> 
+                                <div class=post-title style="text-decoration: underline; text-decoration-color: {{ $item.color }};  text-decoration-style: dashed; text-underline-offset: 2px;">
+                                    {{ $post | markdownify }}
+                                </div>
+                                {{ if $item.descriptions }}
+                                    <div class=post-description> 
+                                        {{ index $item.descriptions $tagIndex }} 
+                                    </div>
+                                {{ end }}
+                            </div>
+                        {{ end }}
+                    </div>
+                </section>
+            </div>
+       {{ end }}
+
+       <div class=wide id="about"> 
+        <br>
+        <br>
+        <h2 > What is the point of this site? </h2>
+        <p> I don't know man, I build websites. It's just <a href="https://webcraft.joodaloop.com"> what I do</a>. It pays my bills and makes other people happy. Sometimes they look really good too. </p>
+        <p> One day I woke up and thought "I wish there was a site that had all the writing that I send to people most often, all in one place". So I put it all together and hoisted it onto the internet. </p>
+        <p> Some people make lists of every single thing they've read recently. Other make blogrolls and Pinboard pages. I made a custom web page, because I felt like it.  </p>
+        <p> Posts within each writer's card are organised in descending order of popularity/quality; the first post is almost always their most popular one. But the fifth and final one is always a personal favourite. </p>
+        <p> They might be really intense distillations of the writer's wordlview. They might be explanations for a thing I don't want to bother explaining myself. All of them are here because I once wanted them to be, and couldn't be bothered to remove them if I don't anymore.</p>
+        </div>
+
+
+    </main>
+
+
+
+    {{ partial "footer.html" . }}
+</body>
+
+</html>
