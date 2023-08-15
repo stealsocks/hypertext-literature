@@ -49,6 +49,13 @@
     line-height: 2em;
   }
 
+  .post-title a{
+    text-decoration: inherit; 
+    text-decoration-color: inherit;  
+    text-decoration-style: inherit; 
+    text-underline-offset: inherit;
+  }
+
   .card{
     display: inline-block;
     position: relative;
