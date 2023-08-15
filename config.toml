@@ -16,7 +16,7 @@ canonifyURLs = true
 	email = "judah@joodaloop.com"
 
 [params]
-  description = "A better starting point for building Hugo sites."
+  description = "The blogging hall of fame."
 
 [markup.goldmark.renderer]
     unsafe = "true"
