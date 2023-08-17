@@ -145,6 +145,10 @@
     text-decoration: none;
   }
 
+  a:hover{
+    font-style: italic;
+  }
+
   .single > a{
     text-decoration: underline;
     text-decoration-style: dashed;

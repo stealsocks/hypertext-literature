@@ -29,8 +29,8 @@ lesswrong = ["[Power Buys You Distance From The Crime](https://www.lesswrong.com
 			"[The Baby-Eating Aliens](https://www.lesswrong.com/posts/n5TqCuizyJDfAPjkr/the-baby-eating-aliens-1-8)"]
 
 [[authors]]
-name = " Byrne Hobart"
-blog = " The Diff "
+name = "Byrne Hobart"
+blog = "The Diff"
 link = "https://www.thediff.co/"
 color = '#00a69e'
 posts = ['[Stripe and Solid-State Economics](https://www.thediff.co/archive/stripe/)',
@@ -74,14 +74,14 @@ descriptions = ["Philosophy's functions & benefits, and why they aren't real(?)"
 
 
 [[authors]]
-name = " Aaron Swartz"
-blog = " Raw Thought"
+name = "Aaron Swartz"
+blog = "Raw Thought"
 link = "http://www.aaronsw.com"
 color = '#ff4'
 posts = ['[ A Non-Programmer’s Apology](http://www.aaronsw.com/weblog/nonapology)', '[ I Hate the News](http://www.aaronsw.com/weblog/hatethenews)', '[ Take the Easy Way Out](http://www.aaronsw.com/weblog/easywayout)', '[ HOWTO: Be More Productive](http://www.aaronsw.com/weblog/productivity)', '[ Two Conceptions of Taste](http://www.aaronsw.com/weblog/2taste)']
 
 [[authors]]
-name = "Patrick Mcenzie"
+name = "Patrick McKenzie"
 blog = "Kalzumeus"
 link = "https://www.kalzumeus.com"
 color = '#3498DB'
@@ -209,19 +209,19 @@ posts = ['[Life After Lifestyle](https://subpixel.space/entries/life-after-lifes
 
 
 [[authors]]
-name = " Scott Alexander"
-blog = " AstralCodexTen "
+name = "Scott Alexander"
+blog = "AstralCodexTen"
 link = "https://astralcodexten.substack.com"
 color = '#67BDFC'
 posts = ['[ Meditations on Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/)', 
 		'[ SSC Gives A Graduation Speech](https://slatestarcodex.com/2014/05/23/ssc-gives-a-graduation-speech/)', 
 		'[ Who By Very Slow Decay](https://slatestarcodex.com/2013/07/17/who-by-very-slow-decay/)', 
-		'[ Heurestics That Almost Always Work](https://astralcodexten.substack.com/p/heuristics-that-almost-always-work?s=r)', 
+		'[ Heuristics That Almost Always Work](https://astralcodexten.substack.com/p/heuristics-that-almost-always-work?s=r)', 
 		'[ And I Show You How Deep The Rabbit Hole Goes](https://slatestarcodex.com/2015/06/02/and-i-show-you-how-deep-the-rabbit-hole-goes/)']
 
 [[authors]]
-name = " José Luis Ricón Fernández"
-blog = " Nintil "
+name = "José Luis Ricón Fernández de la Puente"
+blog = "Nintil"
 link = "https://nintil.com/"
 color = '#C05B4D'
 posts = ['[ The Longevity FAQ](https://nintil.com/longevity)', '[ What is aging?](https://nintil.com/what-is-aging)', '[ Scaling Tacit Knowledge](https://nintil.com/scaling-tacit-knowledge)', '[ Is (useful) physics over?](https://nintil.com/is-useful-physics-over)', '[ Cozy Futurism](https://nintil.com/cozy-futurism)']
@@ -243,8 +243,8 @@ descriptions = ["Why we should radically scale genius grants",
 				"Creating mini worlds"]
 
 [[authors]]
-name = " Venkatesh Rao"
-blog = " Ribbonfarm "
+name = "Venkatesh Rao"
+blog = "Ribbonfarm"
 link = "https://www.ribbonfarm.com/"
 color = '#692010'
 posts = ['[The Gervais Principle, Or The Office According to “The Office”](https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/)',
@@ -254,8 +254,8 @@ posts = ['[The Gervais Principle, Or The Office According to “The Office”](h
 		'[The Calculus of Grit](https://www.ribbonfarm.com/2011/08/19/the-calculus-of-grit/)']
 
 [[authors]]
-name = " Roger's Bacon"
-blog = "Secreturm Secretorum"
+name = "Roger's Bacon"
+blog = "Secretum Secretorum"
 link = "https://www.secretorum.life/"
 color = '#216217'
 posts = ['[ The Myth of the Myth of the Lone Genius](https://rogersbacon.substack.com/p/the-myth-of-the-myth-of-the-lone)', '[ Born Again: Disconnected Psychology, Martian Science, and the Order of the Phoenix](https://rogersbacon.substack.com/p/born-again-disconnected-psychology?s=r)', '[ Nomen est omen](https://rogersbacon.substack.com/p/nomen-est-omen)', '[ Ideas are Alive and You are Dead](https://rogersbacon.substack.com/p/ideas-are-alive-and-you-are-dead?s=r)']
@@ -266,9 +266,9 @@ descriptions = ["",
 				""]
 
 [[authors]]
-name = " Erik Hoel"
-blog = ""
-link = ""
+name = "Erik Hoel"
+blog = "The Intrinsic Perspective"
+link = "https://erikhoel.substack.com"
 color = ''
 posts = ['[ Why we stopped making Einsteins](https://erikhoel.substack.com/p/why-we-stopped-making-einsteins)', '[ How the strangeness of our dreams reveals their true purpose](https://www.newscientist.com/article/mg24833073-600-how-the-strangeness-of-our-dreams-reveals-their-true-purpose/)', '[ We need a Butlerian Jihad against AI](https://erikhoel.substack.com/p/we-need-a-butlerian-jihad-against)', '[ Baldwin in Brahman](https://erikhoel.substack.com/p/baldwin-in-brahman)']
 descriptions = ["Geniuses of the past were aristocratically tutored",
@@ -278,8 +278,8 @@ descriptions = ["Geniuses of the past were aristocratically tutored",
 				"A trip to the hospital is more real than your politics"]
 
 [[authors]]
-name = " Crispy Chicken"
-blog = " McLegibilist"
+name = "Crispy Chicken"
+blog = "McLegibilist"
 link = "https://crispychicken.cc"
 color = '#26BC67'
 posts = ['[ Intellectual Fascia](https://crispychicken.cc/p/intellectual-fascia)', '[ Relative Semantics Are More Real Than Absolute Semantics](https://crispychicken.cc/p/relative-semantics-are-more-real)', '[ Starving in the Motte](https://crispychicken.cc/p/starving-in-the-motte)']
@@ -289,22 +289,22 @@ descriptions = ["What holds scientific discourses together?",
 
 
 [[authors]]
-name = " Dan Luu"
-blog = " danluu.com "
+name = "Dan Luu"
+blog = "danluu.com"
 link = "https://danluu.com"
 color = '#fff'
 posts = ['[ Individuals matter](https://danluu.com/people-matter/)', '[How I learned to program](https://danluu.com/learning-to-program/)', '[ Willingness to look stupid](https://danluu.com/look-stupid/)', '[ Some reasons to work on productivity and velocity](https://danluu.com/productivity-velocity/)', "[ 95%-ile isn't that good](https://danluu.com/p95-skill/)"]
 
 [[authors]]
-name = " Nadia"
-blog = " nadia.xyz"
+name = "Nadia"
+blog = "nadia.xyz"
 link = "https://nadia.xyz/"
 color = '#1A0DAB'
 posts = ['[ The tyranny of ideas](https://nadia.xyz/ideas)', '[ Reimagining the PhD](https://nadia.xyz/phd)', '[ Reclaiming public life](https://nadia.xyz/public-life)', '[ Seed stage philanthropy](https://nadia.xyz/seed-philanthropy)', '[ Friend Groups](https://nayafia.substack.com/p/27-friend-groups)']
 
 [[authors]]
-name = " Zvi Mowshowitz"
-blog = " Don't Worry About the Vase "
+name = "Zvi Mowshowitz"
+blog = "Don't Worry About the Vase"
 link = "https://thezvi.wordpress.com"
 color = 'rgb(250, 250, 250)'
 posts = ['[ The Moral Mazes Sequence](https://thezvi.wordpress.com/2020/05/23/mazes-sequence-summary/)', 
@@ -326,8 +326,8 @@ descriptions = ['How many of our greatest minds have we lost?',
 				'This post is about how little work people do, but it starts with stories of unusually high output.']
 
 [[authors]]
-name = " Jacob Falkovich"
-blog = " Putanumonit "
+name = "Jacob Falkovich"
+blog = "Putanumonit"
 link = "https://putanumonit.com/2020/01/01/welcome/"
 color = '#5415C0'
 posts = ['[Winning is for Losers](https://putanumonit.com/2017/10/11/winning-is-for-losers/)',
@@ -338,7 +338,7 @@ posts = ['[Winning is for Losers](https://putanumonit.com/2017/10/11/winning-is-
 
 
 [[authors]]
-name = " Ava "
+name = "Ava"
 blog = "bookbear express"
 link = "https://ava.substack.com/"
 color = '#E85C58'
@@ -346,7 +346,7 @@ posts = ['[ effort](https://ava.substack.com/p/effort)', '[ obsession](https://a
 
 
 [[authors]]
-name = " Simon Sarris"
+name = "Simon Sarris"
 blog = "The Map is Mostly Water"
 link = "https://simonsarris.substack.com"
 color = '#BAA049'
@@ -359,8 +359,8 @@ descriptions = ['The world is a very malleable place.',
 
 
 [[authors]]
-name = " Randy"
-blog = " Egg Report"
+name = "Randy"
+blog = "Egg Report"
 link = "https://eggreport.substack.com"
 color = '#45D802'
 posts = ['[ Uncritical Theory](https://eggreport.substack.com/p/uncritical-theory)', '[](https://eggreport.substack.com/p/the-duty-of-joy)', '[ beating games and women](https://eggreport.substack.com/p/beating-games-and-women?s=r)', '[ Wittgenstone age mindset](https://eggreport.substack.com/p/wittgenstone-age-mindset?s=r)', '[ Dating Advice for the modern Serial Killer](https://eggreport.substack.com/p/rehosting-dating-advice-for-the-modern)']
@@ -370,14 +370,14 @@ descriptions = ["The new paradigm we've all been waiting for",
 				'What you call "identity" and "consciousness" was invented in 5000 BC by guys like me, to sell copper',
 				'Dating App “just the tip”s & tricks']
 [[authors]]
-name = " Edward Teach "
+name = "Edward Teach"
 blog = "The Last Psychiatrist"
 link = "https://thelastpsychiatrist.com"
 color = '#EDEBD5'
 posts = ['[ Luxury Branding The Future Leaders Of The World](https://thelastpsychiatrist.com/2011/11/luxury_branding_the_future_lea.html)', '[ Massacre of The Unicorns](https://thelastpsychiatrist.com/2006/11/massacre_of_the_unicorns.html)', '[ No Self-Respecting Woman Would Go Out Without Make Up](https://thelastpsychiatrist.com/2013/01/no_self-respecting_woman_would.html)', '[ Hipsters On Food Stamps](https://thelastpsychiatrist.com/2012/11/hipsters_on_food_stamps.html)', '[The Dove Sketches Beauty Scam](https://thelastpsychiatrist.com/2013/05/dove.html)']
 
 [[authors]]
-name = " Hotel Concierge "
+name = "Hotel Concierge"
 blog = "Hotel Conceirge"
 link = "https://thelastpsychiatrist.com"
 color = '#0673a2'
@@ -391,8 +391,8 @@ descriptions = ['hey man there’s a hole in my head where information goes',
 
 
 [[authors]]
-name = " Sasha Chapin"
-blog = " Sasha's 'Newsletter'"
+name = "Sasha Chapin"
+blog = "Sasha's 'Newsletter'"
 link = "https://sashachapin.substack.com/"
 color = '#FF81CD'
 posts = ['[ In Praise of Stupid Song Lyrics](https://hazlitt.net/feature/praise-stupid-song-lyrics)', "[ If You Have Writer's Block, Maybe You Should Stop Lying ](https://sashachapin.substack.com/p/if-you-have-writers-block-maybe-you)", '[ Elliott Smith is Sad, Like You](https://hazlitt.net/feature/elliott-smith-sad-you)', '[ Being Too Old Is a Beautiful State of Mind](https://sashachapin.substack.com/p/being-too-old-is-a-beautiful-state)', '[ Notes Against Note-Taking Systems](https://sashachapin.substack.com/p/notes-against-note-taking-systems)']
@@ -403,8 +403,8 @@ descriptions = ["Stupid lyrics are good for you. Bad lyrics are just bad.",
 				'Dating App “just the tip”s & tricks']
 
 [[authors]]
-name = " 0HP Lovecraft"
-blog = " Zero HP Lovecraft "
+name = "0HP Lovecraft"
+blog = "Zero HP Lovecraft"
 link = "https://zerohplovecraft.wordpress.com/"
 color = '#48FA98'
 posts = ['[ God-shaped Hole](https://wiki.chadnet.org/god-shaped-hole)', '[ The Gig Economy ](https://zerohplovecraft.substack.com/p/the-gig-economy)', '[ Key Performance Indicators](https://zerohplovecraft.substack.com/p/key-performance-indicators)', '[Eventual Consistency](https://zerohplovecraft.substack.com/p/eventual-consistency)', '[So You Want to Write Fiction With AI](https://zerohplovecraft.substack.com/p/so-you-want-to-write-fiction-with)']
@@ -416,8 +416,8 @@ descriptions = ['seduction in a future world of sexbots and augmented reality',
 				]
 
 [[authors]]
-name = " Dan Wang"
-blog = " The Secure Transport Of Light "
+name = "Dan Wang"
+blog = "The Secure Transport Of Light"
 link = "https://danwang.co"
 color = '#990001'
 posts = ['[ Definite Optimism as Human Capital](http://danwang.co/definite-optimism-as-human-capital/)', '[ 2021 letter](https://danwang.co/2021-letter/)', '[ 2019 letter](http://danwang.co/2019-letter/)', '[ How Technology Grows](https://danwang.co/how-technology-grows/)', '[Violence and the Sacred](https://danwang.co/college-girardian-terror/)']

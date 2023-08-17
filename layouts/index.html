@@ -29,9 +29,6 @@
         {{ else }} {{ .Site.Params.description }}{{ end }}" />
         <meta name="twitter:image" content="{{ .Site.BaseURL}}/card.jpg" />
 
-        <link rel="alternate" type="application/rss+xml" 
-          title="RSS Feed for {{ .Site.Title }}." 
-          href="/index.xml" />
         <link rel="stylesheet" type="text/css" href="/css/styles.css" />
 </head>
 
@@ -65,14 +62,14 @@
                         <h2>
                             {{ $item.name }}
                         </h2>
-                        <span class=blog> Writes at <a href="{{ $item.link}}">{{ $item.blog }}</a>.</span>
+                        <span class=blog> Writes at <a href="{{ $item.link}}">{{- $item.blog }}</a>.</span>
                     </div>
 
                     <div class=posts>
                         {{ range $tagIndex, $post := $item.posts }}
                             <div class=post> 
                                 <div class=post-title style="text-decoration: underline; text-decoration-color: {{ $item.color }};  text-decoration-style: dashed; text-underline-offset: 2px;">
-                                    {{ $post | markdownify }}
+                                    {{- $post | markdownify -}}
                                 </div>
                                 {{ if $item.descriptions }}
                                     <div class=post-description> 
@@ -94,7 +91,7 @@
         <p> One day I woke up and thought "I wish there was a site that had all the writing that I send to people most often, all in one place". So I put it all together and hoisted it onto the internet. </p>
         <p> Some people make lists of every single thing they've read recently. Other make blogrolls and Pinboard pages. I made a custom web page, because I felt like it.  </p>
         <p> Posts within each writer's card are organised in descending order of popularity/quality; the first post is almost always their most popular one. But the fifth and final one is always a personal favourite. </p>
-        <p> They might be really intense distillations of the writer's wordlview. They might be explanations for a thing I don't want to bother explaining myself. All of them are here because I once wanted them to be, and couldn't be bothered to remove them if I don't anymore.</p>
+        <p> They might be really intense distillations of the writer's worldview. They might be explanations for a thing I don't want to bother explaining myself. All of them are here because I once wanted them to be, and couldn't be bothered to remove them if I don't anymore.</p>
         </div>
 
 
